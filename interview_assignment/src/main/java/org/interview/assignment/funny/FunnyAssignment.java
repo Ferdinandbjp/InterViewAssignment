@@ -60,7 +60,7 @@ public class FunnyAssignment {
 
 	public static void main(String[] args) {
 //		funnyGameStageOne(33);
-//		funnyGameStageOne(100);
+		funnyGameStageOne(100);
 //		funnyGameStageTwo(33);
 		funnyGameStageTwo(100);
 	}
